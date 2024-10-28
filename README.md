@@ -20,6 +20,8 @@ To enable the music recognition feature:
 
 > **Note**: The ACR Cloud API is required for music recognition. You must use your own credentials for this functionality to work.
 
+> Also add your own google-services.json file! (android/app/"Paste here")
+
 ## ⚙️ Installation
 
 1. Clone the repository:
