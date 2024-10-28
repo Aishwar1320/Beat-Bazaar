@@ -1,0 +1,12 @@
+homepage - D
+settings page - D
+signin page - D
+signup page - D
+backend connection(Auth) - D
+Ai integration
+portfolio page
+fav page 
+search page
+profile page
+backend connection(User)
+
