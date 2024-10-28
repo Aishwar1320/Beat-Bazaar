@@ -16,7 +16,7 @@ Welcome to **Beat Bazaar**, a music application that lets users play, explore, a
 
 To enable the music recognition feature:
 1. Register at [ACR Cloud](https://www.acrcloud.com/) to obtain API credentials.
-2. Add your **ACR Cloud API key** and **secret** in the appropriate configuration file (e.g., `config.js` or `.env`).
+2. Add your **ACR Cloud API key** and **secret** in the appropriate configuration file (e.g., `beats.dart`).
 
 > **Note**: The ACR Cloud API is required for music recognition. You must use your own credentials for this functionality to work.
 
