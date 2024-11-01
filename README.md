@@ -21,7 +21,9 @@ To enable the music recognition feature:
 > **Note**: The ACR Cloud API is required for music recognition. You must use your own credentials for this functionality to work.
 
 > Add your own google-services.json file! (android/app/"Paste here")
+
 > Add your own firebase.json file (root directory/"Paste here")
+
 > Add your own firebase_options.dart file (lib/"Paste Here")
 
 ## ⚙️ Installation
