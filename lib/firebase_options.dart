@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDRCOxCFwb-4OaYy0SC8giJtcdkupIiRAw',
-    appId: '1:31449495880:web:fd2ae49804450266da5b7d',
-    messagingSenderId: '31449495880',
-    projectId: 'beat-bazaar-1320',
-    authDomain: 'beat-bazaar-1320.firebaseapp.com',
-    storageBucket: 'beat-bazaar-1320.appspot.com',
+    apiKey: 'ADD YOURS',
+    appId: 'ADD YOURS',
+    messagingSenderId: 'ADD YOURS',
+    projectId: 'ADD YOURS',
+    authDomain: 'ADD YOURS',
+    storageBucket: 'ADD YOURS',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBLeZ-C5oVdrUCOjLsv_9e-Lek5Jv_SyF0',
-    appId: '1:31449495880:android:61251045c413c152da5b7d',
-    messagingSenderId: '31449495880',
-    projectId: 'beat-bazaar-1320',
-    storageBucket: 'beat-bazaar-1320.appspot.com',
+    apiKey: 'ADD YOURS',
+    appId: 'ADD YOURS',
+    messagingSenderId: 'ADD YOURS',
+    projectId: 'ADD YOURS',
+    storageBucket: 'ADD YOURS',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCKPj5-kL7bFpYIO25cRpyN88gFwn1Bk_g',
-    appId: '1:31449495880:ios:4bafec987ba36786da5b7d',
-    messagingSenderId: '31449495880',
-    projectId: 'beat-bazaar-1320',
-    storageBucket: 'beat-bazaar-1320.appspot.com',
-    iosBundleId: 'com.example.beatBazaar',
+    apiKey: 'ADD YOURS',
+    appId: 'ADD YOURS',
+    messagingSenderId: 'ADD YOURS',
+    projectId: 'ADD YOURS',
+    storageBucket: 'ADD YOURS',
+    iosBundleId: 'ADD YOURS',
   );
 }
